@@ -44,7 +44,7 @@ The goal of this project is to showcase practical machine learning skills suitab
 - False Negatives: 163  
 - True Positives: 210  
 
-![Confusion Matrix](03_Customer_Churn_Prediction/Confusion%20Matrix.png)
+![Confusion Matrix](03_Customer_Churn_Prediction/confusion_matrix.png)
 
 ---
 
