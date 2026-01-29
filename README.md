@@ -44,6 +44,8 @@ The goal of this project is to showcase practical machine learning skills suitab
 - False Negatives: 163  
 - True Positives: 210  
 
+/home/daniyalalidana/GitHub/Machine-Learning-Portfolio/03_Customer_Churn_Prediction/Confusion Matrix.png
+
 ---
 
 ## Key Takeaways
@@ -68,28 +70,5 @@ Customer_Churn_Prediction.ipynb
 ---
 
 ## Author
-Ali Dana
-
-4️⃣ requirements.txt (Optional but Professional)
-
-Create a file named requirements.txt and add:
-
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-
-
-pip install -r requirements.txt
-
-3. Open the Jupyter Notebook and run all cells:
-
-
-Customer_Churn_Prediction.ipynb
-
-
----
-
-## Author
 Daniyal Ali Dana
+
